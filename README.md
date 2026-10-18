@@ -1,5 +1,4 @@
-# 💫 About Me:
-Aspiring Data Scientist | Python | Machine Learning | Deep Learning<br>Turning data into decisions through analysis, modeling, and continuous learning.<br>Building projects. Solving real problems.
+# 💫 About Me:Data Scientist | Python | Machine Learning | Deep Learning<br>Turning data into decisions through analysis, modeling, and continuous learning.<br>Building projects. Solving real problems.
 
 
 ## 🌐 Socials:
